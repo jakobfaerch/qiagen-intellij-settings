@@ -1,0 +1,8 @@
+<templateSet group="Test">
+  <template name="test" value="@Test&#10;public void $NAME$() {&#10;    $END$&#10;}" description="@Test method" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

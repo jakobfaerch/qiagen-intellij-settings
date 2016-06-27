@@ -1,0 +1,78 @@
+<keymap version="1" name="Mac OS X 10.5+ Jakob" parent="Mac OS X 10.5+">
+  <action id="CheckinProject" />
+  <action id="CodeCompletion" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorHungryBackSpace">
+    <keyboard-shortcut first-keystroke="meta alt back_space" />
+  </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="shift ctrl j" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="PropertyInspectorActions.AddProperty">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="RemoteHost.NewRemoteItem">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="meta alt 9" />
+  </action>
+</keymap>
