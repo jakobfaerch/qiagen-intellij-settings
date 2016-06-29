@@ -25,4 +25,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="meta alt 9" />
+  </action>
 </keymap>
