@@ -11,6 +11,9 @@
       <entry key="Default">
         <PlaceSettings />
       </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
+      </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
@@ -39,6 +42,9 @@
         <PlaceSettings>
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
+      </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
       </entry>
       <entry key="Merge">
         <PlaceSettings />
