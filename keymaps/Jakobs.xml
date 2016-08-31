@@ -1,4 +1,8 @@
 <keymap version="1" name="Jakobs" parent="Mac OS X 10.5+">
+  <action id="CheckinProject" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta y" />
