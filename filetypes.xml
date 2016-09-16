@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.md.html" type="Markdown" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="cpw" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
