@@ -6,6 +6,7 @@
       <mapping ext="cpw" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="install4j" type="XML" />
     </extensionMap>
   </component>
 </application>
