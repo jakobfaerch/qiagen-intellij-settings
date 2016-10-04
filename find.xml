@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -17,9 +17,9 @@
       <mask>*.json</mask>
       <mask>*.properties</mask>
       <mask>*Config.java</mask>
-      <mask>pom.xml</mask>
       <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
