@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.md.html" type="Markdown" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="cpw" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
